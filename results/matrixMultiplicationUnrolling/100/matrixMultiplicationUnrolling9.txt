@@ -1,0 +1,16 @@
+# started on Thu Sep 15 13:48:15 2022
+
+
+ Performance counter stats for './bin/matrixMultiplicationUnrolling 100':
+
+        19.494.466      L1-dcache-load:u                                            
+            73.302      L1-dcache-load-misses:u   #    0,38% of all L1-dcache accesses
+           174.213      branch-instructions:u                                       
+             2.552      branch-misses:u           #    1,46% of all branches        
+
+       0,006067700 seconds time elapsed
+
+       0,006003000 seconds user
+       0,000000000 seconds sys
+
+

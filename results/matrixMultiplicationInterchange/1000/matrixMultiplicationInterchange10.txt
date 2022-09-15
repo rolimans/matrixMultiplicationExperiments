@@ -1,0 +1,16 @@
+# started on Thu Sep 15 13:48:10 2022
+
+
+ Performance counter stats for './bin/matrixMultiplicationInterchange 1000':
+
+    22.016.025.855      L1-dcache-load:u                                            
+        62.902.208      L1-dcache-load-misses:u   #    0,29% of all L1-dcache accesses
+     1.004.049.753      branch-instructions:u                                       
+         1.001.886      branch-misses:u           #    0,10% of all branches        
+
+       4,220107766 seconds time elapsed
+
+       4,168845000 seconds user
+       0,009944000 seconds sys
+
+
